@@ -10,11 +10,5 @@ public class Producto {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_producto")
     private Integer idProducto;
-
-
-    // name
-
-
-
-
+    // TODO add name
 }
