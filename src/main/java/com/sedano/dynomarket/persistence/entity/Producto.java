@@ -11,4 +11,6 @@ public class Producto {
     @Column(name = "id_producto")
     private Integer idProducto;
     // TODO add name
+    // Set my laptop
+    // todo install java 11
 }
